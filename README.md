@@ -1,1 +1,3 @@
 Estou aprendendo HTML e estou gostando bastante. Nas aulas, estou aprendendo como criar páginas para a internet usando apenas HTML. No começo, achei um pouco difícil entender para que servia cada tag, mas com o tempo fui pegando o jeito. Já aprendi a usar títulos, parágrafos, listas, links e imagens. Também entendi como organizar o conteúdo da página de forma correta e sem bagunça.  Essas aulas estão me ajudando a entender como os sites funcionam por trás das telas, e isso é muito legal. 
+
+Aulas do curso do IOS, com os modulos de HTML, GIT e CSS
